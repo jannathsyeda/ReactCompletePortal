@@ -1,0 +1,19 @@
+body{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.testimonials .container{
+    background-image: url(../../../images/pic7.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+    font-family: 'Roboto', sans-serif;
+}
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}

@@ -1,9 +1,8 @@
 import React from 'react';
 import BusinessInfo from '../BusinessInfo/BusinessInfo';
 import HeaderMain from '../HeaderMain/HeaderMain';
-
-import Navbar from '../Navbar/Navbar';
 import './Header.css';
+import Navbar from '../../Shared/Navbar/Navbar';
 
 const Header = () => {
     return (
@@ -12,7 +11,7 @@ const Header = () => {
             <HeaderMain></HeaderMain>
             <BusinessInfo></BusinessInfo>
 
-            
+            <Navbar></Navbar>
         </div>
     );
 };
