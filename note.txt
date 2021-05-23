@@ -39,3 +39,15 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
 const element = <FontAwesomeIcon icon={faCoffee} />
+
+
+*react calender 
+command - npm install react-calendar
+https://www.npmjs.com/package/react-calendar       ---follow this site
+
+*react modal
+https://www.npmjs.com/package/react-modal                 ---follow this site
+
+
+**firebase start google signin
+npm install --save firebase
